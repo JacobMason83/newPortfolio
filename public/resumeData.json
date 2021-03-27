@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Jacob Mason",
+    "occupation": "CEO of Mason Web Services",
+    "description": "I just finished coding school, and I have been doing freelance work for clients and friends and family for the experience",
+    "image": "profilepic.jpeg",
+    "bio": "Hi there im Jacob, I have been interested in coding since I saw the matrix in 1999, and I have tried learning over the years, but family responibility or work prevented me, but this past year, I had the chance to go to Bottega University, and  ",
+    "contactmessage": "Get in touch with me, I am looking for new opportunities",
+    "email": "neozane23@gmail.com",
+    "phone": "260-226-9662",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Garrett",
+      "state": "Indiana",
+      "zip": "46738"
+    },
+    "website": "https://https://jdm-school-react-portfolio.herokuapp.com/",
+    "resumedownload": "JacobMasonResume2.docx",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/user/masedogg83/channels",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jacob.mason.184/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jacob-mason-1a242169/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jacobmason184/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/JacobMason83   ",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Bottega University",
+        "degree": "Full Stack Web Engineer Certifcation",
+        "graduated": "February 2021",
+        "description": "Graduated top of my class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Mason Web Services",
+        "title": "Founder and CEO",
+        "years": "February 2021 - Present",
+        "description": "Helping clients, friends and family with websites that they need done, and so that i can get some experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Landlord Tenant App  (React JS)",
+        "category": "",
+        "image": "ltApp.png",
+        "url": "https://jdm-landlord-tenant-app.herokuapp.com"
+      },
+      {
+        "title": "Todo App",
+        "category": "",
+        "image": "todoApp.png",
+        "url": "http://jdm-react-todo.herokuapp.com/"
+      },
+      {
+        "title": "Meme Maker",
+        "category": "",
+        "image": "memeMaker.png",
+        "url": "https://jdm-meme-maker-react.herokuapp.com/form"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I met Jacob during a time in his life when he was going through a career transition. I’ve been so amazed by his focus and determination to reach his goals. He’s the type of person that, if he doesn’t know the answer, he takes it upon himself to figure it out. Getting started in his software journey wasn’t easy. We hit not one, not 2, but three roadblocks. Each time he didn’t give up and meet the challenge head-on. His abundance of enthusiasm for learning and adapting is the first thing you notice about him. Jacob is going to be a rock star in the software industry because he brings with him a myriad of life experience and humility that come for someone that has taken the challenge for rebuilding themselves. He has surpassed expectations time and time again. I’m so excited that I was able to be apart of his journey and can’t wait to see what the future hold for him!",
+        "user": "Christina Greenwood"
+      }
+    ]
+  }
+}
