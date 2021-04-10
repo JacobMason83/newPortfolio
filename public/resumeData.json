@@ -4,7 +4,7 @@
     "occupation": "CEO of Mason Web Services",
     "description": "I just finished coding school, and I have been doing freelance work for clients and friends and family for the experience",
     "image": "profilepic.jpeg",
-    "bio": "Hi there im Jacob, I have been interested in coding since I saw the matrix in 1999, and I have tried learning over the years, but family responibility or work prevented me, but this past year, I had the chance to go to Bottega University ",
+    "bio": "Hi there im Jacob, I have been interested in coding since I saw the matrix in 1999, and I have tried learning over the years, but family responibility or work prevented me, but this past year, I had the chance to go to Bottega University, and I acceled at it, and caught on to everything easily, but put in the work to fully understand it as well. Bottega changed my life and now I am looking for a opportunity to challenge me everyday. ",
     "contactmessage": "Get in touch with me, I am looking for new opportunities",
     "email": "neozane23@gmail.com",
     "phone": "260-226-9662",
@@ -104,6 +104,12 @@
         "category": "",
         "image": "memeMaker.png",
         "url": "https://jdm-meme-maker-react.herokuapp.com/form"
+      },
+      {
+        "title": "Google Clone",
+        "category": "",
+        "image": "google-clone.png",
+        "url":" https://google-clone-gl5yfj75k-jacobmason83.vercel.app"
       }
     ]
   },
