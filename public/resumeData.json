@@ -89,27 +89,33 @@
     "projects": [
       {
         "title": "Landlord Tenant App  (React JS)",
-        "category": "",
+        "category": "School",
         "image": "ltApp.png",
         "url": "https://jdm-landlord-tenant-app.herokuapp.com"
       },
       {
         "title": "Todo App",
-        "category": "",
+        "category": "Fun",
         "image": "todoApp.png",
         "url": "http://jdm-react-todo.herokuapp.com/"
       },
       {
         "title": "Meme Maker",
-        "category": "",
+        "category": "Fun",
         "image": "memeMaker.png",
         "url": "https://jdm-meme-maker-react.herokuapp.com/form"
       },
       {
         "title": "Google Clone",
-        "category": "",
-        "image": "google-clone.png",
+        "category": "Clone",
+        "image": "googleClone.png",
         "url":" https://google-clone-gl5yfj75k-jacobmason83.vercel.app"
+      }
+      {
+        "title": "Amazon Clone",
+        "category": "Clone",
+        "image": "amazon.jpg",
+        "url":" https://clone-e02a1.web.app/"
       }
     ]
   },
