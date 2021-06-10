@@ -116,6 +116,12 @@
         "category": "",
         "image": "amazon.jpg",
         "url":" https://clone-e02a1.web.app/"
+      },
+      {
+        "title": "Html Fries ",
+        "category": "",
+        "image": "devfries.png",
+        "url":" https://htmlfries.herokuapp.com"
       }
     ]
   },
