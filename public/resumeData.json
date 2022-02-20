@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Jacob Mason",
-    "occupation": "CEO of Mason Web Services",
-    "description": "Worked for various clients making customized websites for their businesses and firms. Was able to successfully take the UX/UI designer template and put into code for all clients. Delivered finished projects on time and kept in consistent communication with the hired outside teams to bring the clients vision to life. Used a variety of different programming languages for supporting both front-end and back-end.  ",
+    "occupation": "Software Engineer at Firefly Integrations",
+    "description": "Working for a company that integrate lights,shades,awnings,av,and other integrations into Motor Coaches using a serial port , and a CanBus system. We send commands and recieve status to set or turn on different integrations. We test on the Bench, and then send it to peer review, and then to testing, if it passes then its ready to be merged into the code, or will get sent back for corrections or bugs. Everyday is a new adventure, and I learn new things daily. ",
     "image": "profilepic.jpeg",
     "bio": "Hi there im Jacob, I have been interested in coding since I saw the matrix in 1999, and I have tried learning over the years, but family responibility or work prevented me, but this past year, I had the chance to go to Bottega University, and I excelled at it,I put in the work to fully understand it as deep as I could within the time i had. Bottega changed my life and now I am looking for a opportunity to level up my skills and abilities.",
     "contactmessage": "Get in touch with me, I am looking for new opportunities",
@@ -10,12 +10,12 @@
     "phone": "260-226-9662",
     "address": {
       "street": "123 Dev Lane",
-      "city": "Garrett",
+      "city": "Kendalville",
       "state": "Indiana",
-      "zip": "46738"
+      "zip": "46755"
     },
     "website": "https://https://jdm-school-react-portfolio.herokuapp.com/",
-    "resumedownload": "JacobMasonResume2.docx",
+    "resumedownload": "./images/myupdatedResumeFeb22.docx",
     "social": [
       {
         "name": "youtube",
@@ -56,9 +56,15 @@
     ],
     "work": [
       {
+        "company": "Firefly Integrations",
+        "title": "Software Engineer",
+        "years": "August 16, 2021 - Present",
+        "description": "Integration into Motor Coaches, using serial ports, and CANBus. We send commands, and recieve status to turn on and set things, we primarily use JavaScript, Ionic, and Angular."
+      },
+      {
         "company": "Mason Web Services",
         "title": "Founder and CEO",
-        "years": "September 2021 - Present",
+        "years": "September 2020 - Present",
         "description": "Helping clients, friends and family with websites that they need done, and so that i can get some experience."
       }
     ],
@@ -73,14 +79,18 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Backend",
         "level": "95%"
       }
     ]
