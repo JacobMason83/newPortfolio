@@ -130,7 +130,7 @@
       {
         "title": "Html Fries ",
         "category": "",
-        "image": "devfries.png",
+        "image": "./images/portfolio/devfries.png",
         "url":" https://htmlfries.herokuapp.com"
       }
     ]
